@@ -2,4 +2,4 @@
 
 ## A 120+ minute exam
 
-### See final.qmd for details
+### See BSMM-2023-final.qmd for details
